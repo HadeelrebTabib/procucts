@@ -1,21 +1,26 @@
 [
   {
+    "id":1,
     "color": "Brown",
     "size": 38
   },
   {
+      "id":2,
     "color": "Brown",
     "size": 40
   },
   {
+      "id":3,
     "color": "Black",
     "size": 38
   },
   {
+      "id":4,
     "color": "Nude",
     "size": 40
   } ,
   {
+      "id":5,
     "color": "White",
     "size": 38
   }
